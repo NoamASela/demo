@@ -7,3 +7,4 @@ This is a new line for the demo
 
 Adding row from the server
 anotherline
+mydemo1
